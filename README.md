@@ -1,12 +1,9 @@
-# React + Vite
-HELLO FROM WINDOWS. (testing push changes 10/24/2024)
+# My Component Playground
+A playground for testing out my Lit web component. 
+My NPM package: https://www.npmjs.com/package/@novacat35/lit-web-components
 
+My web component repo: https://github.com/NovaCat35/lit-web-components
 
---------
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation ⚙️
+Install my package
+`npm install @novacat35/lit-web-components@latest`
