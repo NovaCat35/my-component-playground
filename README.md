@@ -5,6 +5,10 @@ A playground for testing out my Lit web component. Imagine a production using th
 - My NPM package: https://www.npmjs.com/package/@novacat35/lit-web-components
 - My web component repo: https://github.com/NovaCat35/lit-web-components
 
+## Tech Stack 🌐
+- Vite + React
+- Javascript 
+
 ## Installation ⚙️
 1) Create a project (this example creates a React project)
 ```
@@ -15,6 +19,8 @@ npm run dev
 ```
 
 2) Install my package
+> [!NOTE]
+> If you experience issues with not getting the latest, type: `npm cache clean --force`    
 `npm install @novacat35/lit-web-components@latest`
 
 3) Import the node_module package link somewhere (Example below is from `src/App.jsx`)
